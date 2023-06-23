@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igorhip
+- 👋 Hi, I’m Igor
 🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛
 <!---
 igorhip/igorhip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
